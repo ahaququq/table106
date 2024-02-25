@@ -1,7 +1,7 @@
-howdy, ya boi table106 here
+howdy, ya boi table106 here;
 
-name: table
-languages: mostly python (duh) but also a bit of C#.
-nationality: pierogi land aka Poland.
-interests: programming (DUH), gaming.
-way too much free time
+name: table;
+languages: python and a bit of C#;
+actual languages: polish, english;
+interests: programming, gaming;
+way too much free time;
