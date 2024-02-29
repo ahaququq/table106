@@ -6,7 +6,7 @@ class Qol {
         return Console.ReadLine();
     }
     public static bool isPrime(int value) {
-        for (int i = Math. floor(Math.sqrt(value)); i > 1; i--) {
+        for (int i = Math.floor(Math.sqrt(value)); i > 1; i--) {
             if (value % i == 0) {
                 return false;
             }
