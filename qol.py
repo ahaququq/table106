@@ -9,3 +9,6 @@ def isPrime(num: int):
         if num % i == 0:
             return False
     return True
+
+def intify(value):
+    value = int(value)
