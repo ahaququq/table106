@@ -1,7 +1,7 @@
 def intInput(string: str) -> str:
     return int(input(string))
 
-def isPrime(num: int):
+def isPrime(num: int) -> bool:
     from math import sqrt
     if num < 2: # if num isn't "prime-or-not"able
         return None
@@ -10,5 +10,5 @@ def isPrime(num: int):
             return False
     return True
 
-def intify(value):
-    value = int(value)
+def retype(value, type):
+    return type(value)
