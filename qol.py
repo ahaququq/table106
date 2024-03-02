@@ -13,8 +13,11 @@ def isPrime(num: int) -> bool:
 def retype(value, type):
     return type(value)
 
-def reverse(list: list):
+def reverse(list: list) -> None:
     list = list[::-1]
 
-def swap(a,b):
+def swap(a,b) -> None:
     a, b = b, a
+
+def stringListToIntList(st: str, sep: str=" "):
+    st = list(map(int, st.split(sep)))
