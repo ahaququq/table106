@@ -12,3 +12,9 @@ def isPrime(num: int) -> bool:
 
 def retype(value, type):
     return type(value)
+
+def reverse(list: list):
+    list = list[::-1]
+
+def swap(a,b):
+    a, b = b, a
