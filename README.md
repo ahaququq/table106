@@ -9,3 +9,9 @@ python and C#
 polish, english
 ### interests: 
 programming, gaming
+
+## stuff i do
+# buckshot roulette, console version
+in python @ table106/buckshot
+# same as previous
+but in C# @ table106/buckshotCS
