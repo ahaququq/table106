@@ -1,13 +1,14 @@
-# howdy, table106 here
+# Howdy, table106 here
 
-## about me
-### name:
-table
-### languages: 
-python and C#
-### actual languages: 
-polish, english
-### interests: 
-programming, gaming
+## About me
+### Name:
+Table
+### Languages: 
+Python and C#
+### Actual languages: 
+Polish, English 
+### Interests: 
+* Programming
+* Gaming
 
-yeah
+Yeah
